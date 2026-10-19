@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="Theme.PinchukQuizApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+    <!-- Единый стиль для всех кнопок приложения -->
+    <style name="AppButton" parent="Widget.AppCompat.Button">
+        <!-- Наш красивый фон с закруглением -->
+        <item name="android:background">@drawable/button_background</item>
 
-    <style name="Theme.PinchukQuizApp" parent="android:Theme.Material.Light.NoActionBar" />
+        <!-- Белый текст -->
+        <item name="android:textColor">#FFFFFF</item>
+
+        <!-- Размер текста -->
+        <item name="android:textSize">16sp</item>
+
+        <!-- Отключаем автоматический КАПСЛОК -->
+        <item name="android:textAllCaps">false</item>
+
+        <!-- Фиксированная высота для аккуратности -->
+        <item name="android:layout_height">50dp</item>
+
+        <!-- Отступы между кнопками (если нужно) -->
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
 </resources>
