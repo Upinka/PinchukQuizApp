@@ -1,0 +1,8 @@
+ru.pinchuk.quizapp-pngs-0 F:\prodject\app\build\generated\res\pngs\debug
+ru.pinchuk.quizapp-updated_navigation_xml-1 F:\prodject\app\build\generated\updated_navigation_xml\debug
+ru.pinchuk.quizapp-packageDebugResources-2 F:\prodject\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+ru.pinchuk.quizapp-packageDebugResources-3 F:\prodject\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+ru.pinchuk.quizapp-debug-4 F:\prodject\app\build\intermediates\merged_res\debug\mergeDebugResources
+ru.pinchuk.quizapp-debug-5 F:\prodject\app\src\debug\res
+ru.pinchuk.quizapp-main-6 F:\prodject\app\src\main\res
+gradleHome-0 C:\Users\Сашка\.gradle
